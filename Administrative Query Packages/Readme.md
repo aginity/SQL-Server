@@ -17,5 +17,4 @@
 |Show List of Active Process with SQL Text   | What SQL processes are running right now on the SQL Server instance  | sys.dm_exec_requests, sys.dm_exec_sql_text, sys.dm_exec_sessions   |
 |Show Sizes for All Databases   | Shows database size in MB  |  sys.master_files, sys.databases |
 |Show Unused Tables Since Last Restart   | A great query showing you which tables have not been referenced   |  sys.tables,sys.dm_db_index_usage_stats, sys.indexes  |
-|Top 10 Biggest Tables in Database   | Shows which tables are taking up the most space in a database   | sys.dm_db_partition_stats   |
 |User Statistics   |Shows current logged in users and a summary of their activity   |sys.dm_exec_sessions sessions, sys.dm_exec_connections, master..sysprocesses requests,sys.dm_exec_cursors   |

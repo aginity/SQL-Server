@@ -2,7 +2,7 @@
 
 |Package Name| Package Description| Number of Queries in Package|
 |------------|--------------------|-----------------------------|
-|Aginity-Pro-SQLServer-Admin-Set1 |Contains common SQL queries to better understand SQL Server objects   | 8  |
+|Aginity-Pro-SQLServer-Admin-Set1 |Contains common SQL queries to better understand SQL Server objects   | 7  |
 
 
 
